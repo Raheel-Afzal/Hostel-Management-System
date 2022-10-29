@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HMSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Room">
+    <Key>
+      <PropertyRef Name="roomno" />
+    </Key>
+    <Property Name="roomno" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="floor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fees" Type="Int32" />
+    <Property Name="available" Type="Int32" />
+  </EntityType>
+  <EntityType Name="StudentInfo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="father_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="age" Type="Int32" />
+    <Property Name="cnic" Type="Int32" />
+    <Property Name="address_temp" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="phone_home" Type="Int32" />
+    <Property Name="mobile" Type="Int32" />
+    <Property Name="address_per" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="relationship" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="mobile_emr" Type="Int32" />
+    <Property Name="address_emr" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="allot_room" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="HMSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Rooms" EntityType="Self.Room" />
+    <EntitySet Name="StudentInfoes" EntityType="Self.StudentInfo" />
+  </EntityContainer>
+</Schema>

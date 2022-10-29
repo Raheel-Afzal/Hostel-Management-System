@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HMSModelStoreContainer" CdmEntityContainer="HMSEntities">
+    <EntitySetMapping Name="Rooms">
+      <EntityTypeMapping TypeName="HMSModel.Room">
+        <MappingFragment StoreEntitySet="Rooms">
+          <ScalarProperty Name="roomno" ColumnName="roomno" />
+          <ScalarProperty Name="floor" ColumnName="floor" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="fees" ColumnName="fees" />
+          <ScalarProperty Name="available" ColumnName="available" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MessMenus">
+      <EntityTypeMapping TypeName="HMSModel.MessMenu">
+        <MappingFragment StoreEntitySet="MessMenu">
+          <ScalarProperty Name="meal" ColumnName="meal" />
+          <ScalarProperty Name="time" ColumnName="time" />
+          <ScalarProperty Name="day" ColumnName="day" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="HMSModel.Employee">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="Allot_Date" ColumnName="Allot_Date" />
+          <ScalarProperty Name="SalaryStatus" ColumnName="SalaryStatus" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="tittle" ColumnName="tittle" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Cnic" ColumnName="Cnic" />
+          <ScalarProperty Name="FatherName" ColumnName="FatherName" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Jobs">
+      <EntityTypeMapping TypeName="HMSModel.Job">
+        <MappingFragment StoreEntitySet="Job">
+          <ScalarProperty Name="pay" ColumnName="pay" />
+          <ScalarProperty Name="tittle" ColumnName="tittle" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserInfoes">
+      <EntityTypeMapping TypeName="HMSModel.UserInfo">
+        <MappingFragment StoreEntitySet="UserInfo">
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="username" ColumnName="username" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OldStudents">
+      <EntityTypeMapping TypeName="HMSModel.OldStudent">
+        <MappingFragment StoreEntitySet="OldStudent">
+          <ScalarProperty Name="fees_status" ColumnName="fees_status" />
+          <ScalarProperty Name="checkout_date" ColumnName="checkout_date" />
+          <ScalarProperty Name="allot_date" ColumnName="allot_date" />
+          <ScalarProperty Name="roomno" ColumnName="roomno" />
+          <ScalarProperty Name="address_emr" ColumnName="address_emr" />
+          <ScalarProperty Name="mobile_emr" ColumnName="mobile_emr" />
+          <ScalarProperty Name="relationship" ColumnName="relationship" />
+          <ScalarProperty Name="address_per" ColumnName="address_per" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+          <ScalarProperty Name="phone_home" ColumnName="phone_home" />
+          <ScalarProperty Name="address_temp" ColumnName="address_temp" />
+          <ScalarProperty Name="cnic" ColumnName="cnic" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="father_name" ColumnName="father_name" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EarningReports">
+      <EntityTypeMapping TypeName="HMSModel.EarningReport">
+        <MappingFragment StoreEntitySet="EarningReport">
+          <ScalarProperty Name="Mess" ColumnName="Mess" />
+          <ScalarProperty Name="Electricity" ColumnName="Electricity" />
+          <ScalarProperty Name="Gas" ColumnName="Gas" />
+          <ScalarProperty Name="Internet" ColumnName="Internet" />
+          <ScalarProperty Name="SalaryPaid" ColumnName="SalaryPaid" />
+          <ScalarProperty Name="Fees" ColumnName="Fees" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="int" ColumnName="int" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StudentInfoes">
+      <EntityTypeMapping TypeName="HMSModel.StudentInfo">
+        <MappingFragment StoreEntitySet="StudentInfo">
+          <ScalarProperty Name="name_emr" ColumnName="name_emr" />
+          <ScalarProperty Name="fees_status" ColumnName="fees_status" />
+          <ScalarProperty Name="default_dues" ColumnName="default_dues" />
+          <ScalarProperty Name="fees" ColumnName="fees" />
+          <ScalarProperty Name="admission_fees" ColumnName="admission_fees" />
+          <ScalarProperty Name="allot_date" ColumnName="allot_date" />
+          <ScalarProperty Name="roomno" ColumnName="roomno" />
+          <ScalarProperty Name="address_emr" ColumnName="address_emr" />
+          <ScalarProperty Name="mobile_emr" ColumnName="mobile_emr" />
+          <ScalarProperty Name="relationship" ColumnName="relationship" />
+          <ScalarProperty Name="address_per" ColumnName="address_per" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+          <ScalarProperty Name="cnic" ColumnName="cnic" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="father_name" ColumnName="father_name" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

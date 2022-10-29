@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HMSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="EarningReport">
+    <Key>
+      <PropertyRef Name="int" />
+    </Key>
+    <Property Name="int" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Month" Type="date" />
+    <Property Name="Fees" Type="varchar" MaxLength="50" />
+    <Property Name="SalaryPaid" Type="varchar" MaxLength="50" />
+    <Property Name="Internet" Type="varchar" MaxLength="50" />
+    <Property Name="Gas" Type="varchar" MaxLength="50" />
+    <Property Name="Electricity" Type="varchar" MaxLength="50" />
+    <Property Name="Mess" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="FatherName" Type="varchar" MaxLength="50" />
+    <Property Name="Age" Type="int" />
+    <Property Name="Cnic" Type="varchar" MaxLength="50" />
+    <Property Name="Address" Type="varchar(max)" />
+    <Property Name="Mobile" Type="bigint" />
+    <Property Name="tittle" Type="varchar" MaxLength="50" />
+    <Property Name="SalaryStatus" Type="bit" />
+    <Property Name="Allot_Date" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Job">
+    <Key>
+      <PropertyRef Name="tittle" />
+    </Key>
+    <Property Name="tittle" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pay" Type="bigint" />
+  </EntityType>
+  <EntityType Name="MessMenu">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="day" Type="varchar" MaxLength="50" />
+    <Property Name="time" Type="varchar" MaxLength="50" />
+    <Property Name="meal" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="OldStudent">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" />
+    <Property Name="father_name" Type="varchar" MaxLength="50" />
+    <Property Name="age" Type="int" />
+    <Property Name="cnic" Type="varchar" MaxLength="50" />
+    <Property Name="address_temp" Type="varchar(max)" />
+    <Property Name="phone_home" Type="bigint" />
+    <Property Name="mobile" Type="varchar" MaxLength="50" />
+    <Property Name="address_per" Type="varchar(max)" />
+    <Property Name="relationship" Type="varchar" MaxLength="20" />
+    <Property Name="mobile_emr" Type="varchar" MaxLength="50" />
+    <Property Name="address_emr" Type="varchar(max)" />
+    <Property Name="roomno" Type="varchar" MaxLength="50" />
+    <Property Name="allot_date" Type="varchar" MaxLength="20" />
+    <Property Name="checkout_date" Type="varchar" MaxLength="50" />
+    <Property Name="fees_status" Type="bit" />
+  </EntityType>
+  <EntityType Name="Rooms">
+    <Key>
+      <PropertyRef Name="roomno" />
+    </Key>
+    <Property Name="roomno" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="floor" Type="varchar" MaxLength="50" />
+    <Property Name="type" Type="varchar" MaxLength="50" />
+    <Property Name="fees" Type="int" />
+    <Property Name="available" Type="int" />
+  </EntityType>
+  <EntityType Name="StudentInfo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" />
+    <Property Name="father_name" Type="varchar" MaxLength="50" />
+    <Property Name="age" Type="int" />
+    <Property Name="cnic" Type="varchar" MaxLength="50" />
+    <Property Name="mobile" Type="varchar" MaxLength="50" />
+    <Property Name="address_per" Type="varchar(max)" />
+    <Property Name="name_emr" Type="varchar" MaxLength="50" />
+    <Property Name="relationship" Type="varchar" MaxLength="20" />
+    <Property Name="mobile_emr" Type="varchar" MaxLength="50" />
+    <Property Name="address_emr" Type="varchar(max)" />
+    <Property Name="roomno" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="allot_date" Type="varchar" MaxLength="20" />
+    <Property Name="admission_fees" Type="varchar" MaxLength="150" />
+    <Property Name="fees" Type="varchar" MaxLength="150" />
+    <Property Name="default_dues" Type="varchar" MaxLength="150" />
+    <Property Name="fees_status" Type="bit" />
+  </EntityType>
+  <EntityType Name="UserInfo">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Employees__tittl__0880433F">
+    <End Role="Job" Type="Self.Job" Multiplicity="0..1" />
+    <End Role="Employees" Type="Self.Employees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Job">
+        <PropertyRef Name="tittle" />
+      </Principal>
+      <Dependent Role="Employees">
+        <PropertyRef Name="tittle" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__StudentIn__roomn__160F4887">
+    <End Role="Rooms" Type="Self.Rooms" Multiplicity="1" />
+    <End Role="StudentInfo" Type="Self.StudentInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rooms">
+        <PropertyRef Name="roomno" />
+      </Principal>
+      <Dependent Role="StudentInfo">
+        <PropertyRef Name="roomno" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HMSModelStoreContainer">
+    <EntitySet Name="EarningReport" EntityType="Self.EarningReport" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employees" EntityType="Self.Employees" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Job" EntityType="Self.Job" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MessMenu" EntityType="Self.MessMenu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OldStudent" EntityType="Self.OldStudent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rooms" EntityType="Self.Rooms" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StudentInfo" EntityType="Self.StudentInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserInfo" EntityType="Self.UserInfo" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Employees__tittl__0880433F" Association="Self.FK__Employees__tittl__0880433F">
+      <End Role="Job" EntitySet="Job" />
+      <End Role="Employees" EntitySet="Employees" />
+    </AssociationSet>
+    <AssociationSet Name="FK__StudentIn__roomn__160F4887" Association="Self.FK__StudentIn__roomn__160F4887">
+      <End Role="Rooms" EntitySet="Rooms" />
+      <End Role="StudentInfo" EntitySet="StudentInfo" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

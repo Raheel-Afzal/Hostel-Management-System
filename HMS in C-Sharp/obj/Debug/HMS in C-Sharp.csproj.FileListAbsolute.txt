@@ -1,0 +1,211 @@
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.AssemblyReference.cache
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_New_Room.resources
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Form1.resources
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Login.resources
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.New_Enrollment.resources
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Properties.Resources.resources
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Room_Details.resources
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.GenerateResource.cache
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe.config
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.pdb
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Guna.UI.dll
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Guna.UI2.dll
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.pdb
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe.config
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.pdb
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe.config
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CopyComplete
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.exe
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.pdb
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Allot_Room.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.AssemblyReference.cache
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_New_Room.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Allot_Room.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Form1.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Login.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.New_Enrollment.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Properties.Resources.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Room_Details.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.GenerateResource.cache
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.exe
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.pdb
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe.config
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.pdb
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.dll
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.pdb
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe.config
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.pdb
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe.config
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.xml
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CopyComplete
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.ViewRecordStudent.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Cancel_Enrollment.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe.config
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.pdb
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.dll
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.pdb
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe.config
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.pdb
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe.config
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.xml
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.AssemblyReference.cache
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_Job.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_New_Employee.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_New_Room.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Allot_Room.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Cancel_Enrollment.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.DashBoard.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Fees.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Form1.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Login.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Menu.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.New_Enrollment.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Others.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Properties.Resources.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Room_Details.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Salary.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.View_Employee_Record.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.ViewRecordStudent.resources
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.GenerateResource.cache
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CopyComplete
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.exe
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.pdb
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe.config
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.pdb
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.dll
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.SqlServer.dll
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.pdb
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe.config
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.pdb
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe.config
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.xml
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.SqlServer.xml
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.AssemblyReference.cache
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.SuggestedBindingRedirects.cache
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_Job.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_New_Employee.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_New_Room.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Allot_Room.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Cancel_Enrollment.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.DashBoard.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Fees.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Form1.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Login.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Menu.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.New_Enrollment.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Others.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Properties.Resources.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Room_Details.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Salary.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.View_Employee_Record.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.ViewRecordStudent.resources
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.GenerateResource.cache
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CoreCompileInputs.cache
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CopyComplete
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.exe
+H:\University work\5th SEMESTER\Projects\Rex\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.pdb
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe.config
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.pdb
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.dll
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.SqlServer.dll
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.pdb
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe.config
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.pdb
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe.config
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.xml
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.SqlServer.xml
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.AssemblyReference.cache
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.SuggestedBindingRedirects.cache
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_Job.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_New_Employee.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_New_Room.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Allot_Room.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Cancel_Enrollment.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.DashBoard.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Fees.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Form1.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Login.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Menu.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.New_Enrollment.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Others.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Properties.Resources.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Room_Details.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Salary.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.View_Employee_Record.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.ViewRecordStudent.resources
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.GenerateResource.cache
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CoreCompileInputs.cache
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CopyComplete
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.exe
+H:\University work\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.pdb
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe.config
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.exe
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\HMS in C-Sharp.pdb
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.dll
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.SqlServer.dll
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.pdb
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\Business Layer.exe.config
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.pdb
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\DAL.exe.config
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.xml
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\bin\Debug\EntityFramework.SqlServer.xml
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.AssemblyReference.cache
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.SuggestedBindingRedirects.cache
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_Job.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_New_Employee.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_New_Room.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Allot_Room.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Cancel_Enrollment.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.DashBoard.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Fees.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Form1.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Login.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Menu.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.New_Enrollment.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Others.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Properties.Resources.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Room_Details.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Salary.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.View_Employee_Record.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.ViewRecordStudent.resources
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.GenerateResource.cache
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CoreCompileInputs.cache
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.csproj.CopyComplete
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.exe
+F:\UNIVERSITY\Projects\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS in C-Sharp.pdb
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_Job.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Add_New_Employee.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.DashBoard.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Fees.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Menu.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Others.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.Salary.resources
+C:\Users\rajar\Desktop\HMS in C-Sharp\HMS in C-Sharp\obj\Debug\HMS_in_C_Sharp.View_Employee_Record.resources

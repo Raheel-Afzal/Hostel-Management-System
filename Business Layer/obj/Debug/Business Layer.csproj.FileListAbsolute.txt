@@ -1,0 +1,48 @@
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.exe.config
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.exe
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\bin\Debug\DAL.exe
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\bin\Debug\DAL.pdb
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\bin\Debug\DAL.exe.config
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.SuggestedBindingRedirects.cache
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.CopyComplete
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.exe
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.pdb
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.exe.config
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.exe
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\bin\Debug\DAL.exe
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\bin\Debug\DAL.pdb
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\bin\Debug\DAL.exe.config
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.SuggestedBindingRedirects.cache
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.CopyComplete
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.exe
+C:\Users\rajar\Desktop\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.pdb
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.exe.config
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.exe
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\bin\Debug\DAL.exe
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\bin\Debug\DAL.pdb
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\bin\Debug\DAL.exe.config
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.SuggestedBindingRedirects.cache
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.CopyComplete
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.exe
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.pdb
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.exe.config
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.exe
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\bin\Debug\Business Layer.pdb
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\bin\Debug\DAL.exe
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\bin\Debug\DAL.pdb
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\bin\Debug\DAL.exe.config
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.SuggestedBindingRedirects.cache
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.csproj.CopyComplete
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.exe
+F:\UNIVERSITY\Projects\HMS in C-Sharp\Business Layer\obj\Debug\Business Layer.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c0256c559a914241af4dabb0bb40f09c" Name="Diagram1">
+        <EntityTypeShape EntityType="HMSModel.Room" Width="1.5" PointX="2.375" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HMSModel.MessMenu" Width="1.5" PointX="13.25" PointY="3.375" />
+        <EntityTypeShape EntityType="HMSModel.Employee" Width="1.5" PointX="10.875" PointY="3" />
+        <EntityTypeShape EntityType="HMSModel.Job" Width="1.5" PointX="8.75" PointY="3.625" />
+        <AssociationConnector Association="HMSModel.FK__Employees__tittl__0880433F" ></AssociationConnector>
+        <EntityTypeShape EntityType="HMSModel.UserInfo" Width="1.5" PointX="0.5" PointY="3.625" />
+        <EntityTypeShape EntityType="HMSModel.OldStudent" Width="1.5" PointX="6.375" PointY="2.375" />
+        <EntityTypeShape EntityType="HMSModel.EarningReport" Width="1.5" PointX="0.75" PointY="6.75" />
+        <EntityTypeShape EntityType="HMSModel.StudentInfo" Width="1.5" PointX="4.625" PointY="2.375" />
+        <AssociationConnector Association="HMSModel.FK__StudentIn__roomn__160F4887" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

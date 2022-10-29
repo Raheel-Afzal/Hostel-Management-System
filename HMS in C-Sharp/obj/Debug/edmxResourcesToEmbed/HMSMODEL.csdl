@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HMSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Room">
+    <Key>
+      <PropertyRef Name="roomno" />
+    </Key>
+    <Property Name="roomno" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="floor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fees" Type="Int32" />
+    <Property Name="available" Type="Int32" />
+    <NavigationProperty Name="StudentInfoes" Relationship="HMSModel.FK__StudentIn__roomn__160F4887" FromRole="Room" ToRole="StudentInfo" />
+  </EntityType>
+  <EntityContainer Name="HMSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Rooms" EntityType="Self.Room" />
+    <EntitySet Name="MessMenus" EntityType="HMSModel.MessMenu" />
+    <EntitySet Name="Employees" EntityType="HMSModel.Employee" />
+    <EntitySet Name="Jobs" EntityType="HMSModel.Job" />
+    <AssociationSet Name="FK__Employees__tittl__0880433F" Association="HMSModel.FK__Employees__tittl__0880433F">
+      <End Role="Job" EntitySet="Jobs" />
+      <End Role="Employee" EntitySet="Employees" />
+    </AssociationSet>
+    <EntitySet Name="UserInfoes" EntityType="HMSModel.UserInfo" />
+    <EntitySet Name="OldStudents" EntityType="HMSModel.OldStudent" />
+    <EntitySet Name="EarningReports" EntityType="HMSModel.EarningReport" />
+    <EntitySet Name="StudentInfoes" EntityType="HMSModel.StudentInfo" />
+    <AssociationSet Name="FK__StudentIn__roomn__160F4887" Association="HMSModel.FK__StudentIn__roomn__160F4887">
+      <End Role="Room" EntitySet="Rooms" />
+      <End Role="StudentInfo" EntitySet="StudentInfoes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="MessMenu">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="day" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="time" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="meal" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FatherName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Cnic" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Mobile" Type="Int64" />
+    <Property Name="tittle" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Age" Type="Int32" />
+    <NavigationProperty Name="Job" Relationship="HMSModel.FK__Employees__tittl__0880433F" FromRole="Employee" ToRole="Job" />
+    <Property Name="SalaryStatus" Type="Boolean" />
+    <Property Name="Allot_Date" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Job">
+    <Key>
+      <PropertyRef Name="tittle" />
+    </Key>
+    <Property Name="tittle" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="pay" Type="Int64" />
+    <NavigationProperty Name="Employees" Relationship="HMSModel.FK__Employees__tittl__0880433F" FromRole="Job" ToRole="Employee" />
+  </EntityType>
+  <Association Name="FK__Employees__tittl__0880433F">
+    <End Type="HMSModel.Job" Role="Job" Multiplicity="0..1" />
+    <End Type="HMSModel.Employee" Role="Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Job">
+        <PropertyRef Name="tittle" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="tittle" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="UserInfo">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="OldStudent">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="father_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="age" Type="Int32" />
+    <Property Name="cnic" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="address_temp" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="phone_home" Type="Int64" />
+    <Property Name="mobile" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="address_per" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="relationship" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="mobile_emr" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="address_emr" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="roomno" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="allot_date" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="checkout_date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fees_status" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="EarningReport">
+    <Key>
+      <PropertyRef Name="int" />
+    </Key>
+    <Property Name="int" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Month" Type="DateTime" Precision="0" />
+    <Property Name="Fees" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SalaryPaid" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Internet" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Gas" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Electricity" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Mess" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="StudentInfo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="father_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="age" Type="Int32" />
+    <Property Name="cnic" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="mobile" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="address_per" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="relationship" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="mobile_emr" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="address_emr" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="roomno" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="allot_date" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="admission_fees" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="fees" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="default_dues" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="fees_status" Type="Boolean" />
+    <NavigationProperty Name="Room" Relationship="HMSModel.FK__StudentIn__roomn__160F4887" FromRole="StudentInfo" ToRole="Room" />
+    <Property Name="name_emr" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK__StudentIn__roomn__160F4887">
+    <End Type="HMSModel.Room" Role="Room" Multiplicity="1" />
+    <End Type="HMSModel.StudentInfo" Role="StudentInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Room">
+        <PropertyRef Name="roomno" />
+      </Principal>
+      <Dependent Role="StudentInfo">
+        <PropertyRef Name="roomno" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

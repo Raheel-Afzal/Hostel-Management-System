@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HMSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Rooms">
+    <Key>
+      <PropertyRef Name="roomno" />
+    </Key>
+    <Property Name="roomno" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="floor" Type="varchar" MaxLength="50" />
+    <Property Name="type" Type="varchar" MaxLength="50" />
+    <Property Name="fees" Type="int" />
+    <Property Name="available" Type="int" />
+  </EntityType>
+  <EntityType Name="StudentInfo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" />
+    <Property Name="father_name" Type="varchar" MaxLength="50" />
+    <Property Name="age" Type="int" />
+    <Property Name="cnic" Type="int" />
+    <Property Name="address_temp" Type="varchar(max)" />
+    <Property Name="phone_home" Type="int" />
+    <Property Name="mobile" Type="int" />
+    <Property Name="address_per" Type="varchar(max)" />
+    <Property Name="relationship" Type="varchar" MaxLength="20" />
+    <Property Name="mobile_emr" Type="int" />
+    <Property Name="address_emr" Type="varchar(max)" />
+    <Property Name="allot_room" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <EntityContainer Name="HMSModelStoreContainer">
+    <EntitySet Name="Rooms" EntityType="Self.Rooms" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StudentInfo" EntityType="Self.StudentInfo" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

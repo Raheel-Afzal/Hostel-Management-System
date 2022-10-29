@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{00CDC74B-0F06-48E8-9971-44EE09DC3079}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HMS_in_C_Sharp</RootNamespace>
+    <AssemblyName>HMS in C-Sharp</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\Downloads\Compressed\Design Dashboard Modern\BUNIFU UI\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\..\Downloads\Compressed\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\..\..\Downloads\Compressed\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Job.Designer.cs">
+      <DependentUpon>Add Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add New Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add New Employee.Designer.cs">
+      <DependentUpon>Add New Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add New Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add New Room.Designer.cs">
+      <DependentUpon>Add New Room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Allot Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Allot Room.Designer.cs">
+      <DependentUpon>Allot Room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cancel Enrollment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cancel Enrollment.Designer.cs">
+      <DependentUpon>Cancel Enrollment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashBoard.Designer.cs">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EarningReport.cs">
+      <DependentUpon>HMSMODEL.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <DependentUpon>HMSMODEL.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Fees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees.Designer.cs">
+      <DependentUpon>Fees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HMSMODEL.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMSMODEL.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HMSMODEL.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMSMODEL.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HMSMODEL.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMSMODEL.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Job.cs">
+      <DependentUpon>HMSMODEL.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessMenu.cs">
+      <DependentUpon>HMSMODEL.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MyDragContol.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="New Enrollment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New Enrollment.Designer.cs">
+      <DependentUpon>New Enrollment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OldStudent.cs">
+      <DependentUpon>HMSMODEL.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Others.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Others.Designer.cs">
+      <DependentUpon>Others.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Room Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Room Details.Designer.cs">
+      <DependentUpon>Room Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Room.cs">
+      <DependentUpon>HMSMODEL.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Salary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary.Designer.cs">
+      <DependentUpon>Salary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentInfo.cs">
+      <DependentUpon>HMSMODEL.tt</DependentUpon>
+    </Compile>
+    <Compile Include="UserInfo.cs">
+      <DependentUpon>HMSMODEL.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Employee Record.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Employee Record.Designer.cs">
+      <DependentUpon>View Employee Record.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewRecordStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewRecordStudent.Designer.cs">
+      <DependentUpon>ViewRecordStudent.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add Job.resx">
+      <DependentUpon>Add Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add New Employee.resx">
+      <DependentUpon>Add New Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add New Room.resx">
+      <DependentUpon>Add New Room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Allot Room.resx">
+      <DependentUpon>Allot Room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cancel Enrollment.resx">
+      <DependentUpon>Cancel Enrollment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard.resx">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees.resx">
+      <DependentUpon>Fees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New Enrollment.resx">
+      <DependentUpon>New Enrollment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Others.resx">
+      <DependentUpon>Others.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Room Details.resx">
+      <DependentUpon>Room Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary.resx">
+      <DependentUpon>Salary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Employee Record.resx">
+      <DependentUpon>View Employee Record.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewRecordStudent.resx">
+      <DependentUpon>ViewRecordStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="HMSMODEL.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>HMSMODEL.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="HMSMODEL.edmx.diagram">
+      <DependentUpon>HMSMODEL.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business Layer\Business Layer.csproj">
+      <Project>{26434025-3a4d-444c-83e4-7921907f924c}</Project>
+      <Name>Business Layer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{865aca04-d101-4045-9196-245333809f5d}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HMSMODEL.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HMSMODEL.edmx</DependentUpon>
+      <LastGenOutput>HMSMODEL.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="HMSMODEL.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HMSMODEL.edmx</DependentUpon>
+      <LastGenOutput>HMSMODEL.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

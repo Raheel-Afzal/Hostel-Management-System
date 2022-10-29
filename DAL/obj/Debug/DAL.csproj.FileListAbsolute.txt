@@ -1,0 +1,22 @@
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\DAL\bin\Debug\DAL.exe.config
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\DAL\bin\Debug\DAL.exe
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\DAL\bin\Debug\DAL.pdb
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\DAL\obj\Debug\DAL.exe
+C:\Users\rajar\source\repos\Final\Hostel Management System\HMS in C-Sharp\DAL\obj\Debug\DAL.pdb
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\DAL\bin\Debug\DAL.exe.config
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\DAL\bin\Debug\DAL.exe
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\DAL\bin\Debug\DAL.pdb
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\DAL\obj\Debug\DAL.exe
+C:\Users\rajar\Desktop\Rex\HMS in C-Sharp\DAL\obj\Debug\DAL.pdb
+F:\UNIVERSITY\Projects\HMS in C-Sharp\DAL\bin\Debug\DAL.exe.config
+F:\UNIVERSITY\Projects\HMS in C-Sharp\DAL\bin\Debug\DAL.exe
+F:\UNIVERSITY\Projects\HMS in C-Sharp\DAL\bin\Debug\DAL.pdb
+F:\UNIVERSITY\Projects\HMS in C-Sharp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\UNIVERSITY\Projects\HMS in C-Sharp\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+F:\UNIVERSITY\Projects\HMS in C-Sharp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\UNIVERSITY\Projects\HMS in C-Sharp\DAL\obj\Debug\DAL.exe
+F:\UNIVERSITY\Projects\HMS in C-Sharp\DAL\obj\Debug\DAL.pdb

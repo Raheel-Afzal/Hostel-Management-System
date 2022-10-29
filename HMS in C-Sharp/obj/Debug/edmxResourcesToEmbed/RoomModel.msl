@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HMSModelStoreContainer" CdmEntityContainer="HMSEntities">
+    <EntitySetMapping Name="Rooms">
+      <EntityTypeMapping TypeName="HMSModel.Room">
+        <MappingFragment StoreEntitySet="Rooms">
+          <ScalarProperty Name="roomno" ColumnName="roomno" />
+          <ScalarProperty Name="floor" ColumnName="floor" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="fees" ColumnName="fees" />
+          <ScalarProperty Name="available" ColumnName="available" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StudentInfoes">
+      <EntityTypeMapping TypeName="HMSModel.StudentInfo">
+        <MappingFragment StoreEntitySet="StudentInfo">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="father_name" ColumnName="father_name" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="cnic" ColumnName="cnic" />
+          <ScalarProperty Name="address_temp" ColumnName="address_temp" />
+          <ScalarProperty Name="phone_home" ColumnName="phone_home" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+          <ScalarProperty Name="address_per" ColumnName="address_per" />
+          <ScalarProperty Name="relationship" ColumnName="relationship" />
+          <ScalarProperty Name="mobile_emr" ColumnName="mobile_emr" />
+          <ScalarProperty Name="address_emr" ColumnName="address_emr" />
+          <ScalarProperty Name="allot_room" ColumnName="allot_room" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

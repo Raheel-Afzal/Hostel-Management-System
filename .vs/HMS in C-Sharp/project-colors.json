@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00cdc74b-0f06-48e8-9971-44ee09dc3079": {
+      "ProjectGuid": "00cdc74b-0f06-48e8-9971-44ee09dc3079",
+      "DisplayName": "HMS in C-Sharp",
+      "ColorIndex": 0
+    },
+    "865aca04-d101-4045-9196-245333809f5d": {
+      "ProjectGuid": "865aca04-d101-4045-9196-245333809f5d",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "26434025-3a4d-444c-83e4-7921907f924c": {
+      "ProjectGuid": "26434025-3a4d-444c-83e4-7921907f924c",
+      "DisplayName": "Business Layer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
